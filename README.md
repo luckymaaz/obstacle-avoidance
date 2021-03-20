@@ -1,2 +1,3 @@
 # obstacle-avoidance
 A simple robot which detect object...
+if u guys have any doubt regading this simple project just drop me a message i'll be there for u to help at anytime.
